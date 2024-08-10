@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<!-- saved from url=(0037)https://websim.ai/c/8RYJ4AVDgGBcCmTD0 -->
+<html lang="en" class="h-full " style=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" href="./Home _ Al-Sakan Al-Mutawwir_files/c88eb6171b8ddd4e.css" data-precedence="next"><link rel="stylesheet" href="./Home _ Al-Sakan Al-Mutawwir_files/628765f20b848f76.css" data-precedence="next"><link rel="stylesheet" href="./Home _ Al-Sakan Al-Mutawwir_files/7c9783b2fc1eb3be.css" data-precedence="next"><link rel="stylesheet" href="./Home _ Al-Sakan Al-Mutawwir_files/cce12d12db281aa5.css" data-precedence="next"><script src="./Home _ Al-Sakan Al-Mutawwir_files/618f8807-eadc5bc5aa480c5e.js.download" async=""></script><script src="./Home _ Al-Sakan Al-Mutawwir_files/362-426047f7f67d17d0.js.download" async=""></script><script src="./Home _ Al-Sakan Al-Mutawwir_files/main-app-7940fcabee2a3be7.js.download" async=""></script><script src="./Home _ Al-Sakan Al-Mutawwir_files/766-75f55a81ac759052.js.download" async=""></script><script src="./Home _ Al-Sakan Al-Mutawwir_files/global-error-f0fbdd28f7c22688.js.download" async=""></script><script src="./Home _ Al-Sakan Al-Mutawwir_files/polyfills-78c92fac7aa8fdd8.js.download" nomodule=""></script><link rel="stylesheet" href="./Home _ Al-Sakan Al-Mutawwir_files/fonts.css"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Home | Al-Sakan Al-Mutawwir</title><meta property="og:title" content="websim.ai"><meta property="og:url" content="https://websim.ai/c/8RYJ4AVDgGBcCmTD0"><meta property="og:image" content="https://images.websim.ai/v1/site/8RYJ4AVDgGBcCmTD0/1200.jpeg"><meta property="og:type" content="website"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@websim"><meta name="twitter:title" content="websim.ai"><meta name="twitter:image" content="https://images.websim.ai/v1/site/8RYJ4AVDgGBcCmTD0/1200.jpeg"><link rel="icon" href="https://websim.ai/favicon.ico" type="image/x-icon" sizes="32x32"><meta name="next-size-adjust"><link type="image/x-icon" rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAACnxJREFUWEeNl2usZWdZx//Pe1uXfTlnzpmZMx3G6SAQqhEMWP1AjY0aSaxJiZhObISI0RAwMQG0JrVfzpeq4EhHmzikomhExpwGhmKmYr1MWjqaKEIsEkuQMK3TduZc9j777L0u7+15zJ5iI7ZFV/KuLysrz+/9P++z1v9P+D+ura0t/fpj19aC8z8eY/7hIHCJ86EkspuJA2flAtNVn0VY6NnE5mnp445eS9cHO1+Np08/nL9TCXq1hyJCX/7Cg4eTPvgegfrZBLorMkYJ0gXmEIT7kBGTKEpZm8yUY6YZM13JQl9RjH9TkH9p4gvPf+j0A92r1XlFAJEt/cUnr95MxD/Gqn8HK3x/FBzxAhuExDNyn0RC1khsTGJtUiJOmTwzdUQ0IZb/BNKXgfw3Ae2Xmp/G7iZt8v8GeUWAL146c0t29A7S8Q5R8VQgXguQsmelfXbw2aALmvrskFgjLUGSBrOSpXKA9JDcQMKUhL9iKD6uVXxs9lT39c3NzfQ/Ib4N4NKlTVNi5YRx/HOw6SfZxFMRvNIzyp5Jt9FSH2v4WKLLBUJ2iGyQs0a+AaABAoiisEQGx6wR94345w3iP7HE37r37g9eeUUAkU31pSeOvFEp/wG4eHs2cSMQDzshs0gGi+jQ+wohDOHjACGXiLlYtgCcFZjpxUUCqAhGhkiCRsiWmmjQPWMR/swiffqk2fj66dOnbxzOlxS4/Ne/c7Qu9d1k43vIxluCSWULwkGyOAgDNH4I3w+RwggpDpFihcwakpeFARFBzhkZjKQEmQRMGUp5GNXAot231H3Vif/LIvLDH/yF93+TiJb9Av5h66NVcQS3W5veq8r+tmzDekeiZ8lh349w4NfQ+VUkvwIONSRUkGRBmUAiWBIIZ6ScEZYLgkiERAw2CaRbGNMmh+56Kd03rIRP6n72yD3vv2eblnP+3evXTimKv1xU/k4q+5Pe9m4mGtN+iP1+Ha3fQPBryGEMFSqoZKGzgoXASAYxg3NCjBF9SOgzw4uGJ0EwjGwCyPTQql/Uqps48U9pJR+59z3fuEzfvPSJcsdP79RFel9Z92+msltd6KT3UoGJX8NBfwzRb4DDGhCGsKlAKQolAYViFMignJBCRAgRnY9oA6PNhJaBjgReZWQTQcYnp9u+0P1Uq/wZi9376fLFMzdrLb/oynh3MehOoArFAQlt+wEm3Qb6cAI5HgXiKmysUcNgZIChZRT6WwrkiOwjgg/ou4imZ8yXKwrmGWgAeM3gwos2XS51myzlaWHDB+jJiw/eanV3X1l1P1IM+rVcR8zE4lq7iml/E0I6AaQjMGmMWkqsGIVxIagLQWEY6lsKiA9IXY/QRjSLjPmCMekY0wAcZIVGCaINEOfF2Y6NCklT/hg9ceHsu6rC/+pouHijG3ZlXwhNpMZ2dxj7/XGEdByKD6PkIUbksFoorNSCuhRYB2hiSI6A78Fti7jo4WcZ833GbsPY7YFJUDgQoNOMVEQxts/OdQuN+Kf0j5898xtFEX5pOGxuLgad6h2wzSPs+A3M/GsQ8k3Qso6BDLGqDdYrwmgI1LWCcwSlBJwCcmjB7Ry8WCBOIxYTxt5MsN0Ce73CNGnMlSAULOR8cLadWZsepcuf+fB9VdG/dzhqTtajDsEqvJDGuB5uwkE6icQ3QfM6Bhhg3Rqs1QorY8JgaFAUCkSCmDyCb8DtDLTYR5p1aLYzphNgp1HY6TQmwWBGhN4yso29K/ptrf2j9MT5+8+NRv3bB6P2ZD3sTHQa22mEa/EYDvgkkrzYgoGMsOYcDg8UVscaw5FBUaobX9WYArp+gdzOoLod5NkC/fWE2Q6wN9fY7Q12g8VUFBotSDb1yvnntA0X6fHzv/l7w7r7qdGwe0016kspBVOp8UI8iimfQMQJaD6CklexYmusVxqrI43xin4JIKQA7xvkfh+q3YEczOC3A+bbhOnMYKez2AkWe6yxWCrmcoKNz2oXHqNLn/zwuWHZ3zEeNUfrUVeaYUSjCzwX1zDh4/ByApANuGUb9AgrhcNKpTEaqhcBFJCWZyA2oDgF9buQ2T7CnkdzjTCdWOx0DtejxV62WChCsAli4rPk8kP0t5/4yIWqCG87NG5WhuPWFSNP0Snsygr2+AhaOY7Ex0A4CqcOYaBLDJxBWRo4u/ybLEcxQMsClifQ/R54doCwF18C2G4LXI8Oe+zQ0BIgs7jwDEz6OH3+4799trTp58eDfri60urBuCOqMxpdYYI1LOQoOtlAkg0oWodTQ1hdwRkFqxmKIgrVo6I5HE+huwPkWYuwG9HsauxPHZYAz8fyBkBLSqLNvdjwNWX5d+nzD505q1V636gK5tBorkbjhqpxj1QazNUIjTqEeV4qcQSgw1BqDFIDGFKwlGHJo1YdKjRwaQFqWuR9D7/LWEwM9g9K7PQVrsYKu2LhFYENT1DEJ3SR76eL5x46bfTibGXCodV6blbGc12POtI1I1cW3ozQYBWtrCHSGliNwVRBk4GjjAIRlXgU2UP3PWTuEScZ3QRY7BeYdjW2fY1rucKeWPFaPFu+KpbPE+U/oq3f/+MjQzu/z6n8zlHZHBpX83I4aE058LADAGWBaAYIegRPY3gaQaiE0hoOgoIyXEpQXQIvEuIso58A3b7FfFFhzw+xk2rscIGZMjlo2s82P8U6f2zlMH+ORERdfPDcbcbg12vTv3lUztcGRTus6xbVIMKVGnAOuSiQdI1EFUg5kNYgEHQWqMDIcyDNBX5GaGcWzbzEQT/EbhpgJy1379AZHbLFs1nJ50jxH1z55+eu3DAkj5z9ww2lzJ2VDu8auOZ1tes2KteauvQoCoYuCHAaZDRgCpA2AGlw1hBP4I6RW43YWviFRbNwmHc19vMIu1xjlx1mMDlqtScGl0nTQ96kxx/40Nu6GwBLJ3vx3Kde68B3OfR3lsZ/b6H8aml6OBdhiwxjGcu66sZNQURDkgMHjdwJkreIfQXvSyw6h1ksMJUBplRhH2Y5fn1Q9DQZ+pNM8fyZe27b/jZPKFuiH7t+/g0K6mcMpXdbijc7eFvooJ31cDq+CLAsvsReOuBcgKNFDgoxWPhUoU8V5tFiP2nMqMDclKkhvegVXQ8kj8Pps/XsrV/b3KQbGeFlueDCAxdOlcC9mvIPOcnHHeKq1V47lZQhIbW03cs381IFC2aLmMzS+6KXAsuBXGQt04TcQPXeFjNv9BVP9FcphT8vfX91c/NHX8oGLwO4tHnJTFeaN1iht2vh243wmyzSIaswMECpwQIWWvILNBI5RDHwYqTDEsJhISo3mfte0yQodYWVfjQTHtn8tVuf/n8lI9kUdWHw2GFoeSsJfkKB3lKQ+S4lvKaYKwgXRKRAOiXRKYpGD0MdjO6hyDNFL7ITlPwra/uIUunvX3fi1mdOn6aXBdVXDadL0q2PblVs1o+Tpx9wSn0fi3qTCJ/ShBVFpAGVkpAE0raDLgOs86yqKDxnzg8z+C+4Nv9+76+8ZXeZAV4poH5HgBsQd23p5o4ftG7v+Q2l5EgWc4uWdJI0URI6AVDwUC6SOxxETyNziMJPcoG/e/2x/5j8dwJ6tXT8X3GOPmmuhB1oAAAAAElFTkSuQmCC" id="swirl-favicon"></head><body class="__className_36bd41" style=""><script src="./Home _ Al-Sakan Al-Mutawwir_files/webpack-d75308c51fe4d3be.js.download" async=""></script><script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script>self.__next_f.push([1,"1:HL[\"/_next/static/media/a34f9d1faa5f3315-s.p.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n2:HL[\"/_next/static/css/c88eb6171b8ddd4e.css\",\"style\"]\n3:HL[\"/_next/static/css/628765f20b848f76.css\",\"style\"]\n4:HL[\"/_next/static/css/7c9783b2fc1eb3be.css\",\"style\"]\n5:HL[\"/_next/static/css/cce12d12db281aa5.css\",\"style\"]\n6:I[25268,[],\"default\"]\n9:I[15276,[],\"default\"]\nb:I[43297,[],\"default\"]\ne:I[11447,[],\"NotFoundBoundary\"]\n19:I[97356,[\"766\",\"static/chunks/766-75f55a81ac759052.js\",\"470\",\"static/chunks/app/global-error-f0fbdd28f7c22688.js\"],\"default\"]\na:[\"slug\",\"\",\"oc\"]\n13:{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/c88eb6171b8ddd4e.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}\n12:[\"$\",\"link\",\"0\",\"$13\"]\n15:{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/628765f20b848f76.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}\n14:[\"$\",\"link\",\"1\",\"$15\"]\n17:{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/7c9783b2fc1eb3be.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}\n16:[\"$\",\"link\",\"2\",\"$17\"]\n11:[\"$12\",\"$14\",\"$16\"]\n1a:[]\n0:[null,[\"$\",\"$L6\",null,{\"buildId\":\"2RN2kzeJJHiXksEKW0ABp\",\"assetPrefix\":\"\",\"initialCanonicalUrl\":\"/\",\"initialTree\":[\"\",{\"children\":[\"(browser)\",{\"children\":[[\"slug\",\"\",\"oc\"],{\"children\":[\"__PAGE__\",{}]}],\"sidebar\":[\"__DEFAULT__\",{}]},\"$undefined\",\"$undefined\",true]}],\"initialSeedData\":[\"\",{\"children\":[\"(browser)\",{\"children\":[[\"slug\",\"\",\"oc\"],{\"children\":[\"__PAGE__\",{},[[\"$L7\",\"$L8\"],null],null]},[\"$\",\"$L9\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"(browser)\",\"children\",\"$a\",\"children\"],\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$Lb\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\",\"styles\":[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/cce12d12db281aa5.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}]]}],null],\"sidebar\":[\"__DEFAULT__\",{},[[\"$c\",\"$Ld\"],null],null]},[[\"$\",\"$Le\",null,{\"notFound\":[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/c88eb6171b8ddd4e.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/628765f20b848f76.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"link\",\"2\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/7c9783b2fc1eb3be.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}]],\"$Lf\"],\"children\":\"$L10\"}],null],null]},[\"$\",\"$L9\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\"],\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$Lb\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[[\"$\",\"title\",null,{\"children\":\"404: This page could not be found.\"}],[\"$\",\"div\",null,{\"style\":{\"fontFamily\":\"system-ui,\\\"Segoe UI\\\",Roboto,Helvetica,Arial,sans-serif,\\\"Apple Color Emoji\\\",\\\"Segoe UI Emoji\\\"\",\"height\":\"100vh\",\"textAlign\":\"center\",\"display\":\"flex\",\"flexDirection\":\"column\",\"alignItems\":\"center\",\"justifyContent\":\"center\"},\"children\":[\"$\",\"div\",null,{\"children\":[[\"$\",\"style\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\"}}],[\"$\",\"h1\",null,{\"className\":\"next-error-h1\",\"style\":{\"display\":\"inline-block\",\"margin\":\"0 20px 0 0\",\"padding\":\"0 23px 0 0\",\"fontSize\":24,\"fontWeight\":500,\"verticalAlign\":\"top\",\"lineHeight\":\"49px\"},\"children\":\"404\"}],[\"$\",\"div\",null,{\"style\":{\"display\":\"inline-block\"},\"children\":[\"$\",\"h2\",null,{\"style\":{\"fontSize\":14,\"fontWeight\":400,\"lineHeight\":\"49px\",\"margin\":0},\"children\":\"This page could not be found.\"}]}]]}]}]],\"notFoundStyles\":[],\"styles\":\"$11\"}],null],\"couldBeIntercepted\":false,\"initialHead\":[false,\"$L18\"],\"globalErrorComponent\":\"$19\",\"missingSlots\":\"$W1a\"}]]\n1b:I[61153,[\"71\",\"static/chunks/71-1d079217e0591bfa.js\",\"455\",\"static/chunks/455-6b21050d4b68cbfb.js\",\"78\",\"static/chunks/78-7d9971ededee3baa.js\",\"515\",\"sta"])</script><script>self.__next_f.push([1,"tic/chunks/515-ef6cd84bb51eea6e.js\",\"390\",\"static/chunks/390-3f18e0a98ca08b67.js\",\"279\",\"static/chunks/279-e38725545caa594f.js\",\"441\",\"static/chunks/441-f3b774ff9126962d.js\",\"691\",\"static/chunks/app/(browser)/@sidebar/default-dcb8457fb5d2c205.js\"],\"BookmarkController\"]\n1c:I[76762,[\"71\",\"static/chunks/71-1d079217e0591bfa.js\",\"455\",\"static/chunks/455-6b21050d4b68cbfb.js\",\"78\",\"static/chunks/78-7d9971ededee3baa.js\",\"515\",\"static/chunks/515-ef6cd84bb51eea6e.js\",\"390\",\"static/chunks/390-3f18e0a98ca08b67.js\",\"279\",\"static/chunks/279-e38725545caa594f.js\",\"441\",\"static/chunks/441-f3b774ff9126962d.js\",\"691\",\"static/chunks/app/(browser)/@sidebar/default-dcb8457fb5d2c205.js\"],\"SidebarView\"]\nd:[\"$\",\"$L1b\",null,{\"children\":[\"$\",\"$L1c\",null,{}]}]\n18:[[\"$\",\"meta\",\"0\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}],[\"$\",\"meta\",\"1\",{\"charSet\":\"utf-8\"}],[\"$\",\"title\",\"2\",{\"children\":\"websim.ai\"}],[\"$\",\"link\",\"3\",{\"rel\":\"icon\",\"href\":\"/favicon.ico\",\"type\":\"image/x-icon\",\"sizes\":\"32x32\"}],[\"$\",\"meta\",\"4\",{\"name\":\"next-size-adjust\"}]]\n7:null\nc:null\n1d:I[37868,[\"71\",\"static/chunks/71-1d079217e0591bfa.js\",\"455\",\"static/chunks/455-6b21050d4b68cbfb.js\",\"78\",\"static/chunks/78-7d9971ededee3baa.js\",\"515\",\"static/chunks/515-ef6cd84bb51eea6e.js\",\"385\",\"static/chunks/385-fde11b5a8b872add.js\",\"279\",\"static/chunks/279-e38725545caa594f.js\",\"441\",\"static/chunks/441-f3b774ff9126962d.js\",\"202\",\"static/chunks/app/(browser)/%5B%5B...slug%5D%5D/page-a9dc5a6add27cb93.js\"],\"Browser\"]\n8:[\"$\",\"$L1d\",\"browser\",{\"html\":\"$undefined\",\"id\":\"LOGGED_IN\",\"view_uuid\":\"98a57b2b-edc3-4019-aea8-be4661e456f6\"}]\n1e:I[72758,[\"71\",\"static/chunks/71-1d079217e0591bfa.js\",\"455\",\"static/chunks/455-6b21050d4b68cbfb.js\",\"78\",\"static/chunks/78-7d9971ededee3baa.js\",\"515\",\"static/chunks/515-ef6cd84bb51eea6e.js\",\"413\",\"static/chunks/413-78fafeacf45344ac.js\",\"279\",\"static/chunks/279-e38725545caa594f.js\",\"441\",\"static/chunks/441-f3b774ff9126962d.js\",\"573\",\"static/chunks/app/(browser)/layout-98fc82e1f5c21507.js\"],\"PHProvider\"]\n1f:I[25419,[\"71\",\"static/chunks/71-1d079217e0591bfa.js\",\"455\",\"static/chunks/455-6b21050d4b68cbfb.js\",\"78\",\"static/chunks/78-7d9971ededee3baa.js\",\"515\",\"static/chunks/515-ef6cd84bb51eea6e.js\",\"413\",\"static/chunks/413-78fafeacf45344ac.js\",\"279\",\"static/chunks/279-e38725545caa594f.js\",\"441\",\"static/chunks/441-f3b774ff9126962d.js\",\"573\",\"static/chunks/app/(browser)/layout-98fc82e1f5c21507.js\"],\"BaselimeRum\"]\n20:I[75935,[\"71\",\"static/chunks/71-1d079217e0591bfa.js\",\"455\",\"static/chunks/455-6b21050d4b68cbfb.js\",\"78\",\"static/chunks/78-7d9971ededee3baa.js\",\"515\",\"static/chunks/515-ef6cd84bb51eea6e.js\",\"413\",\"static/chunks/413-78fafeacf45344ac.js\",\"279\",\"static/chunks/279-e38725545caa594f.js\",\"441\",\"static/chunks/441-f3b774ff9126962d.js\",\"573\",\"static/chunks/app/(browser)/layout-98fc82e1f5c21507.js\"],\"default\"]\n21:I[87708,[\"71\",\"static/chunks/71-1d079217e0591bfa.js\",\"455\",\"static/chunks/455-6b21050d4b68cbfb.js\",\"78\",\"static/chunks/78-7d9971ededee3baa.js\",\"515\",\"static/chunks/515-ef6cd84bb51eea6e.js\",\"413\",\"static/chunks/413-78fafeacf45344ac.js\",\"279\",\"static/chunks/279-e38725545caa594f.js\",\"441\",\"static/chunks/441-f3b774ff9126962d.js\",\"573\",\"static/chunks/app/(browser)/layout-98fc82e1f5c21507.js\"],\"default\"]\n23:I[573,[\"71\",\"static/chunks/71-1d079217e0591bfa.js\",\"455\",\"static/chunks/455-6b21050d4b68cbfb.js\",\"78\",\"static/chunks/78-7d9971ededee3baa.js\",\"515\",\"static/chunks/515-ef6cd84bb51eea6e.js\",\"413\",\"static/chunks/413-78fafeacf45344ac.js\",\"279\",\"static/chunks/279-e38725545caa594f.js\",\"441\",\"static/chunks/441-f3b774ff9126962d.js\",\"573\",\"static/chunks/app/(browser)/layout-98fc82e1f5c21507.js\"],\"Image\"]\nf:[\"$\",\"$L1e\",null,{\"children\":[\"$\",\"html\",null,{\"lang\":\"en\",\"className\":\"h-full \",\"children\":[[\"$\",\"head\",null,{\"children\":[\"$\",\"link\",null,{\"rel\":\"stylesheet\",\"href\":\"https://party.websim.ai/fonts.css\"}]}],[\"$\",\"body\",null,{\"className\":\"__className_36bd41\",\"children\":[\"$\",\"$L1f\",null,{\"userId\":\"0dac9f69-96fb-4353-a821-bfe5ba5bd0a1\",\"service\":\"websim\",\"namespace\":\"pages\",\"apiKey\":\"77f2664d1040eb423d29d240419245a7a847d80f\",\"enableWebVitals\":true,\"enableLocal\":fa"])</script><script>self.__next_f.push([1,"lse,\"fallback\":[\"$\",\"h1\",null,{\"children\":\"An error occured\"}],\"children\":[[\"$\",\"$L20\",null,{}],[\"$\",\"$L21\",null,{\"children\":\"$L22\"}],[\"$\",\"div\",null,{\"id\":\"background\",\"style\":{\"position\":\"fixed\",\"width\":\"110vw\",\"height\":\"110vh\",\"top\":\"-5vh\",\"filter\":\"blur(5px)\",\"left\":\"-5vw\",\"overflow\":\"hidden\",\"zIndex\":-1},\"children\":[\"$\",\"$L23\",null,{\"alt\":\"\",\"src\":\"/sonoma_resized.webp\",\"width\":100,\"height\":100,\"style\":{\"objectFit\":\"cover\",\"width\":\"100%\",\"height\":\"100%\"}}]}]]}]}]]}]}]\n10:[\"$\",\"$L1e\",null,{\"children\":[\"$\",\"html\",null,{\"lang\":\"en\",\"className\":\"h-full \",\"children\":[[\"$\",\"head\",null,{\"children\":[\"$\",\"link\",null,{\"rel\":\"stylesheet\",\"href\":\"https://party.websim.ai/fonts.css\"}]}],[\"$\",\"body\",null,{\"className\":\"__className_36bd41\",\"children\":[\"$\",\"$L1f\",null,{\"userId\":\"0dac9f69-96fb-4353-a821-bfe5ba5bd0a1\",\"service\":\"websim\",\"namespace\":\"pages\",\"apiKey\":\"77f2664d1040eb423d29d240419245a7a847d80f\",\"enableWebVitals\":true,\"enableLocal\":false,\"fallback\":[\"$\",\"h1\",null,{\"children\":\"An error occured\"}],\"children\":[[\"$\",\"$L20\",null,{}],[\"$\",\"$L21\",null,{\"children\":\"$L24\"}],[\"$\",\"div\",null,{\"id\":\"background\",\"style\":{\"position\":\"fixed\",\"width\":\"110vw\",\"height\":\"110vh\",\"top\":\"-5vh\",\"filter\":\"blur(5px)\",\"left\":\"-5vw\",\"overflow\":\"hidden\",\"zIndex\":-1},\"children\":[\"$\",\"$L23\",null,{\"alt\":\"\",\"src\":\"/sonoma_resized.webp\",\"width\":100,\"height\":100,\"style\":{\"objectFit\":\"cover\",\"width\":\"100%\",\"height\":\"100%\"}}]}]]}]}]]}]}]\n25:I[84322,[\"71\",\"static/chunks/71-1d079217e0591bfa.js\",\"455\",\"static/chunks/455-6b21050d4b68cbfb.js\",\"78\",\"static/chunks/78-7d9971ededee3baa.js\",\"515\",\"static/chunks/515-ef6cd84bb51eea6e.js\",\"413\",\"static/chunks/413-78fafeacf45344ac.js\",\"279\",\"static/chunks/279-e38725545caa594f.js\",\"441\",\"static/chunks/441-f3b774ff9126962d.js\",\"573\",\"static/chunks/app/(browser)/layout-98fc82e1f5c21507.js\"],\"HydrationBoundary\"]\n26:I[88014,[\"71\",\"static/chunks/71-1d079217e0591bfa.js\",\"455\",\"static/chunks/455-6b21050d4b68cbfb.js\",\"78\",\"static/chunks/78-7d9971ededee3baa.js\",\"515\",\"static/chunks/515-ef6cd84bb51eea6e.js\",\"413\",\"static/chunks/413-78fafeacf45344ac.js\",\"279\",\"static/chunks/279-e38725545caa594f.js\",\"441\",\"static/chunks/441-f3b774ff9126962d.js\",\"573\",\"static/chunks/app/(browser)/layout-98fc82e1f5c21507.js\"],\"CommonProviders\"]\n28:I[53961,[\"71\",\"static/chunks/71-1d079217e0591bfa.js\",\"455\",\"static/chunks/455-6b21050d4b68cbfb.js\",\"78\",\"static/chunks/78-7d9971ededee3baa.js\",\"515\",\"static/chunks/515-ef6cd84bb51eea6e.js\",\"413\",\"static/chunks/413-78fafeacf45344ac.js\",\"279\",\"static/chunks/279-e38725545caa594f.js\",\"441\",\"static/chunks/441-f3b774ff9126962d.js\",\"573\",\"static/chunks/app/(browser)/layout-98fc82e1f5c21507.js\"],\"Theme\"]\n29:\"$Sreact.suspense\"\n2a:I[62209,[\"71\",\"static/chunks/71-1d079217e0591bfa.js\",\"455\",\"static/chunks/455-6b21050d4b68cbfb.js\",\"78\",\"static/chunks/78-7d9971ededee3baa.js\",\"515\",\"static/chunks/515-ef6cd84bb51eea6e.js\",\"413\",\"static/chunks/413-78fafeacf45344ac.js\",\"279\",\"static/chunks/279-e38725545caa594f.js\",\"441\",\"static/chunks/441-f3b774ff9126962d.js\",\"573\",\"static/chunks/app/(browser)/layout-98fc82e1f5c21507.js\"],\"BailoutToCSR\"]\n27:{\"id\":\"0dac9f69-96fb-4353-a821-bfe5ba5bd0a1\",\"username\":\"sleepybrook50774741\",\"avatar_url\":\"https://lh3.googleusercontent.com/a/ACg8ocLREr9bk7yjky8nzlpoJ4Qf528tH7dCMrkLUC2L3F4TXRWXet0=s96-c\",\"description\":null,\"twitter\":null,\"discord\":null}\n22:[\"$\",\"$L25\",null,{\"state\":{\"mutations\":[],\"queries\":[{\"state\":{\"data\":{\"id\":\"0dac9f69-96fb-4353-a821-bfe5ba5bd0a1\",\"username\":\"sleepybrook50774741\",\"avatar_url\":\"https://lh3.googleusercontent.com/a/ACg8ocLREr9bk7yjky8nzlpoJ4Qf528tH7dCMrkLUC2L3F4TXRWXet0=s96-c\",\"description\":null,\"twitter\":null,\"discord\":null},\"dataUpdateCount\":1,\"dataUpdatedAt\":1723276232944,\"error\":null,\"errorUpdateCount\":0,\"errorUpdatedAt\":0,\"fetchFailureCount\":0,\"fetchFailureReason\":null,\"fetchMeta\":null,\"isInvalidated\":false,\"status\":\"success\",\"fetchStatus\":\"idle\"},\"queryKey\":[\"profile\",\"sleepybrook50774741\"],\"queryHash\":\"[\\\"profile\\\",\\\"sleepybrook50774741\\\"]\"}]},\"children\":[\"$\",\"$L26\",null,{\"commitSha\":\"c7de4b4abad429b76ac19c761a54623639a02340\",\"user\":{\"id\":\"0dac9f69-96fb-4353-a821"])</script><script>self.__next_f.push([1,"-bfe5ba5bd0a1\",\"aud\":\"authenticated\",\"role\":\"authenticated\",\"email\":\"ahmedmohamed12has@gmail.com\",\"email_confirmed_at\":\"2024-08-10T07:50:30.199922Z\",\"phone\":\"\",\"confirmed_at\":\"2024-08-10T07:50:30.199922Z\",\"last_sign_in_at\":\"2024-08-10T07:50:30.708064Z\",\"app_metadata\":{\"provider\":\"google\",\"providers\":[\"google\"]},\"user_metadata\":{\"avatar_url\":\"https://lh3.googleusercontent.com/a/ACg8ocLREr9bk7yjky8nzlpoJ4Qf528tH7dCMrkLUC2L3F4TXRWXet0=s96-c\",\"email\":\"ahmedmohamed12has@gmail.com\",\"email_verified\":true,\"full_name\":\"اخبار عالميه عن الواقع\",\"iss\":\"https://accounts.google.com\",\"name\":\"اخبار عالميه عن الواقع\",\"phone_verified\":false,\"picture\":\"https://lh3.googleusercontent.com/a/ACg8ocLREr9bk7yjky8nzlpoJ4Qf528tH7dCMrkLUC2L3F4TXRWXet0=s96-c\",\"provider_id\":\"116665519445327514150\",\"sub\":\"116665519445327514150\"},\"identities\":[{\"identity_id\":\"c50b3301-df36-4ca7-9464-86ac623b84ba\",\"id\":\"116665519445327514150\",\"user_id\":\"0dac9f69-96fb-4353-a821-bfe5ba5bd0a1\",\"identity_data\":{\"avatar_url\":\"https://lh3.googleusercontent.com/a/ACg8ocLREr9bk7yjky8nzlpoJ4Qf528tH7dCMrkLUC2L3F4TXRWXet0=s96-c\",\"email\":\"ahmedmohamed12has@gmail.com\",\"email_verified\":true,\"full_name\":\"اخبار عالميه عن الواقع\",\"iss\":\"https://accounts.google.com\",\"name\":\"اخبار عالميه عن الواقع\",\"phone_verified\":false,\"picture\":\"https://lh3.googleusercontent.com/a/ACg8ocLREr9bk7yjky8nzlpoJ4Qf528tH7dCMrkLUC2L3F4TXRWXet0=s96-c\",\"provider_id\":\"116665519445327514150\",\"sub\":\"116665519445327514150\"},\"provider\":\"google\",\"last_sign_in_at\":\"2024-08-10T07:50:30.19703Z\",\"created_at\":\"2024-08-10T07:50:30.197078Z\",\"updated_at\":\"2024-08-10T07:50:30.197078Z\",\"email\":\"ahmedmohamed12has@gmail.com\"}],\"created_at\":\"2024-08-10T07:50:30.193037Z\",\"updated_at\":\"2024-08-10T07:50:30.70965Z\",\"is_anonymous\":false},\"profile\":\"$27\",\"partyOrigin\":\"https://party.websim.ai\",\"children\":[\"$\",\"$L28\",null,{\"className\":\"min-h-full max-h-full h-full flex flex-col bg-transparent\",\"children\":[\"$\",\"$29\",null,{\"fallback\":null,\"children\":[\"$\",\"$L2a\",null,{\"reason\":\"next/dynamic\",\"children\":\"$L2b\"}]}]}]}]}]\n2c:{\"id\":\"0dac9f69-96fb-4353-a821-bfe5ba5bd0a1\",\"username\":\"sleepybrook50774741\",\"avatar_url\":\"https://lh3.googleusercontent.com/a/ACg8ocLREr9bk7yjky8nzlpoJ4Qf528tH7dCMrkLUC2L3F4TXRWXet0=s96-c\",\"description\":null,\"twitter\":null,\"discord\":null}\n24:[\"$\",\"$L25\",null,{\"state\":{\"mutations\":[],\"queries\":[{\"state\":{\"data\":{\"id\":\"0dac9f69-96fb-4353-a821-bfe5ba5bd0a1\",\"username\":\"sleepybrook50774741\",\"avatar_url\":\"https://lh3.googleusercontent.com/a/ACg8ocLREr9bk7yjky8nzlpoJ4Qf528tH7dCMrkLUC2L3F4TXRWXet0=s96-c\",\"description\":null,\"twitter\":null,\"discord\":null},\"dataUpdateCount\":1,\"dataUpdatedAt\":1723276232944,\"error\":null,\"errorUpdateCount\":0,\"errorUpdatedAt\":0,\"fetchFailureCount\":0,\"fetchFailureReason\":null,\"fetchMeta\":null,\"isInvalidated\":false,\"status\":\"success\",\"fetchStatus\":\"idle\"},\"queryKey\":[\"profile\",\"sleepybrook50774741\"],\"queryHash\":\"[\\\"profile\\\",\\\"sleepybrook50774741\\\"]\"}]},\"children\":[\"$\",\"$L26\",null,{\"commitSha\":\"c7de4b4abad429b76ac19c761a54623639a02340\",\"user\":{\"id\":\"0dac9f69-96fb-4353-a821-bfe5ba5bd0a1\",\"aud\":\"authenticated\",\"role\":\"authenticated\",\"email\":\"ahmedmohamed12has@gmail.com\",\"email_confirmed_at\":\"2024-08-10T07:50:30.199922Z\",\"phone\":\"\",\"confirmed_at\":\"2024-08-10T07:50:30.199922Z\",\"last_sign_in_at\":\"2024-08-10T07:50:30.708064Z\",\"app_metadata\":{\"provider\":\"google\",\"providers\":[\"google\"]},\"user_metadata\":{\"avatar_url\":\"https://lh3.googleusercontent.com/a/ACg8ocLREr9bk7yjky8nzlpoJ4Qf528tH7dCMrkLUC2L3F4TXRWXet0=s96-c\",\"email\":\"ahmedmohamed12has@gmail.com\",\"email_verified\":true,\"full_name\":\"اخبار عالميه عن الواقع\",\"iss\":\"https://accounts.google.com\",\"name\":\"اخبار عالميه عن الواقع\",\"phone_verified\":false,\"picture\":\"https://lh3.googleusercontent.com/a/ACg8ocLREr9bk7yjky8nzlpoJ4Qf528tH7dCMrkLUC2L3F4TXRWXet0=s96-c\",\"provider_id\":\"116665519445327514150\",\"sub\":\"116665519445327514150\"},\"identities\":[{\"identity_id\":\"c50b3301-df36-4ca7-9464-86ac623b84ba\",\"id\":\"116665519445327514150\",\"user_id\":\"0dac9f69-96fb-4353-"])</script><script>self.__next_f.push([1,"a821-bfe5ba5bd0a1\",\"identity_data\":{\"avatar_url\":\"https://lh3.googleusercontent.com/a/ACg8ocLREr9bk7yjky8nzlpoJ4Qf528tH7dCMrkLUC2L3F4TXRWXet0=s96-c\",\"email\":\"ahmedmohamed12has@gmail.com\",\"email_verified\":true,\"full_name\":\"اخبار عالميه عن الواقع\",\"iss\":\"https://accounts.google.com\",\"name\":\"اخبار عالميه عن الواقع\",\"phone_verified\":false,\"picture\":\"https://lh3.googleusercontent.com/a/ACg8ocLREr9bk7yjky8nzlpoJ4Qf528tH7dCMrkLUC2L3F4TXRWXet0=s96-c\",\"provider_id\":\"116665519445327514150\",\"sub\":\"116665519445327514150\"},\"provider\":\"google\",\"last_sign_in_at\":\"2024-08-10T07:50:30.19703Z\",\"created_at\":\"2024-08-10T07:50:30.197078Z\",\"updated_at\":\"2024-08-10T07:50:30.197078Z\",\"email\":\"ahmedmohamed12has@gmail.com\"}],\"created_at\":\"2024-08-10T07:50:30.193037Z\",\"updated_at\":\"2024-08-10T07:50:30.70965Z\",\"is_anonymous\":false},\"profile\":\"$2c\",\"partyOrigin\":\"https://party.websim.ai\",\"children\":[\"$\",\"$L28\",null,{\"className\":\"min-h-full max-h-full h-full flex flex-col bg-transparent\",\"children\":[\"$\",\"$29\",null,{\"fallback\":null,\"children\":[\"$\",\"$L2a\",null,{\"reason\":\"next/dynamic\",\"children\":\"$L2d\"}]}]}]}]}]\n2e:I[12574,[\"71\",\"static/chunks/71-1d079217e0591bfa.js\",\"455\",\"static/chunks/455-6b21050d4b68cbfb.js\",\"78\",\"static/chunks/78-7d9971ededee3baa.js\",\"515\",\"static/chunks/515-ef6cd84bb51eea6e.js\",\"413\",\"static/chunks/413-78fafeacf45344ac.js\",\"279\",\"static/chunks/279-e38725545caa594f.js\",\"441\",\"static/chunks/441-f3b774ff9126962d.js\",\"573\",\"static/chunks/app/(browser)/layout-98fc82e1f5c21507.js\"],\"App\",1]\n2b:[\"$\",\"$L2e\",null,{\"sidebar\":\"$undefined\",\"browser\":[[],[\"$\",\"p\",null,{\"children\":\"Sorry, something went wrong\"}]]}]\n2f:[]\n2d:[\"$\",\"$L2e\",null,{\"sidebar\":[\"$\",\"$L9\",null,{\"parallelRouterKey\":\"sidebar\",\"segmentPath\":[\"children\",\"(browser)\",\"sidebar\"],\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$Lb\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$2f\",\"styles\":[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/cce12d12db281aa5.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}]]}],\"browser\":[\"$\",\"$L9\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"(browser)\",\"children\"],\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$Lb\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[\"$\",\"p\",null,{\"children\":\"Sorry, something went wrong\"}],\"notFoundStyles\":\"$2f\",\"styles\":null}]}]\n"])</script><div data-is-root-theme="true" data-accent-color="indigo" data-gray-color="slate" data-has-background="true" data-panel-background="translucent" data-radius="medium" data-scaling="100%" class="radix-themes min-h-full max-h-full h-full flex flex-col bg-transparent"><div class="flex items-stretch flex-1 max-h-full gap-0"><div class=" absolute flex items-stretch h-full top-0 left-0 lg:py-0 p-0 -translate-x-[100%] transition-all duration-100 z-20" style="width: 400px;"><div class="
+      shadow-2xl bg-clip-padding
+      @container flex-1 flex flex-col
+      bg-white
+      dark:bg-neutral-900
+      ring-1 ring-gray-200/50 dark:ring-neutral-50/20
+      z-10
+    "><div class="flex space-between items-end relative"><div class="flex flex-1 items-center flex-row gap-0 h-12 pt-2"><div class="logo text-2xl p-6"><span class="dark:!text-yellow-200">w</span><span class="dark:!text-teal-200">e</span><span class="dark:!text-sky-400">b</span><span class="dark:!text-yellow-200">s</span><span class="dark:!text-pink-300">i</span><span class="dark:!text-teal-200">m</span></div></div><div class="absolute top-0 right-0 transform translate-x-[100%] transition-all duration-100 ease-in-out"><div class="w-4 h-8 rounded-r-lg flex items-center justify-center px-2 py-[22px] mt-[12px] bg-gray-100 dark:bg-neutral-700 shadow-lg transition-all duration-100 ease-in-out hover:scale-110 hidden lg:flex"><button class="flex items-center justify-center p-2 rounded-lg 
+                  text-gray-700 dark:text-neutral-300
+                  "><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="w-4 h-4" data-state="closed"><path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path></svg></button></div></div></div><div class="flex-1 flex flex-col gap-4 bg-white dark:bg-neutral-900 pt-4"><div class="flex flex-row px-4 gap-2 space-between"><div class="relative flex flex-1"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="absolute top-3 left-3 w-5 h-5 text-gray-500 dark:text-neutral-500"><path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z"></path></svg><input placeholder="Search bookmarks" aria-label="search bookmarks" class=" flex-1 flex-shrink-1 h-11 pr-10 pl-10 text-sm rounded-lg border border-gray-200 dark:border-neutral-700 bg-gray-100 dark:bg-neutral-800 text-gray-800 dark:text-white " type="text" value=""></div><div class="flex-1 flex items-stretch justify-end"><div class="flex flex-row gap-2 undefined"><button class="flex items-center justify-center p-2 rounded-lg bg-blue-100 dark:bg-blue-900 text-blue-600 dark:text-blue-300 hover:opacity-80" data-state="closed"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="w-5 h-5"><path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0 1 11.186 0Z"></path></svg></button><button class="flex items-center justify-center p-2 rounded-lg bg-gray-200 dark:bg-neutral-800 text-gray-700 dark:text-neutral-300 hover:opacity-80" data-state="closed"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="w-5 h-5"><path stroke-linecap="round" stroke-linejoin="round" d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12Z"></path></svg></button><button class="flex items-center justify-center p-2 rounded-lg bg-gray-200 dark:bg-neutral-800 text-gray-700 dark:text-neutral-300 hover:opacity-80" data-state="closed"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="w-5 h-5"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"></path></svg></button></div></div></div><div class="relative flex-1"><div class="flex flex-col gap-2 px-4 pb-2 absolute inset-0 overflow-y-auto "><div class="flex flex-col gap-2"><div class="text-sm text-gray-500 dark:text-neutral-400 sticky top-0 px-2 -mx-2 pt-1 -mt-1 bg-white dark:bg-neutral-900">Today</div><ul class="flex flex-col gap-2"><li class="flex group"><a class="
+          min-w-0
+          flex-1 flex flex-row gap-4 p-2
+          justify-start
+          items-start
+          group-hover:bg-gray-100
+          group-hover:dark:bg-neutral-800
+          rounded-lg
+          aria-selected:ring-2 aria-selected:ring-blue-300
+        " aria-selected="true" href="https://websim.ai/@sleepybrook50774741/al-sakan-al-mutawwir-premier-real-estate-developme?b=mOBHsKjMCrWJhuhkR"><img alt="Al-Sakan Al-Mutawwir | Premier Real Estate Development" loading="lazy" width="150" height="120" decoding="async" data-nimg="1" class="rounded-lg object-cover" srcset="/_next/image?url=https%3A%2F%2Fimages.websim.ai%2Fv1%2Fsite%2FfFvKi0XNSElYuFOR9%2F600&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimages.websim.ai%2Fv1%2Fsite%2FfFvKi0XNSElYuFOR9%2F600&amp;w=384&amp;q=75 2x" src="./Home _ Al-Sakan Al-Mutawwir_files/600" style="color: transparent;"><div class="flex flex-col gap-1 truncate"><div class="text-sm break-words text-wrap">Al-Sakan Al-Mutawwir | Premier Real Estate Development</div><div class="text-gray-500 dark:text-neutral-500 text-xs flex items-center gap-0.5 truncate"><div class="truncate">websim.ai/@sleepybrook50774741/al-sakan-al-mutawwir-premier-real-estate-developme</div></div></div></a><div class="w-0 flex justify-end"><div class="flex gap-2 p-2 pointer-events-none "><button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r4j:" data-state="closed" aria-label="edit bookmark" class="
+            opacity-0
+            group-hover:opacity-100
+            pointer-events-auto
+            w-5 h-5
+            flex items-center justify-center rounded-md
+            bg-blue-100 text-blue-600 hover:bg-blue-200
+          "><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="w-4 h-4"><path stroke-linecap="round" stroke-linejoin="round" d="m16.862 4.487 1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8.8-2.685a4.5 4.5 0 0 1 1.13-1.897L16.863 4.487Zm0 0L19.5 7.125"></path></svg></button></div></div></li><li class="flex group"><a class="
+          min-w-0
+          flex-1 flex flex-row gap-4 p-2
+          justify-start
+          items-start
+          group-hover:bg-gray-100
+          group-hover:dark:bg-neutral-800
+          rounded-lg
+          aria-selected:ring-2 aria-selected:ring-blue-300
+        " aria-selected="false" href="https://websim.ai/@sleepybrook50774741/al-sakan-al-mutawwir-real-estate-development-1?b=MB6Uc9qNfE33ftzyC"><img alt="Al-Sakan Al-Mutawwir | Real Estate Development" loading="lazy" width="150" height="120" decoding="async" data-nimg="1" class="rounded-lg object-cover" srcset="/_next/image?url=https%3A%2F%2Fimages.websim.ai%2Fv1%2Fsite%2Fr7qHV1rva8HN52dhv%2F600&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimages.websim.ai%2Fv1%2Fsite%2Fr7qHV1rva8HN52dhv%2F600&amp;w=384&amp;q=75 2x" src="./Home _ Al-Sakan Al-Mutawwir_files/600(1)" style="color: transparent;"><div class="flex flex-col gap-1 truncate"><div class="text-sm break-words text-wrap">Al-Sakan Al-Mutawwir | Real Estate Development</div><div class="text-gray-500 dark:text-neutral-500 text-xs flex items-center gap-0.5 truncate"><div class="truncate">websim.ai/@sleepybrook50774741/al-sakan-al-mutawwir-real-estate-development-1</div></div></div></a><div class="w-0 flex justify-end"><div class="flex gap-2 p-2 pointer-events-none "><button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r2l:" data-state="closed" aria-label="edit bookmark" class="
+            opacity-0
+            group-hover:opacity-100
+            pointer-events-auto
+            w-5 h-5
+            flex items-center justify-center rounded-md
+            bg-blue-100 text-blue-600 hover:bg-blue-200
+          "><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="w-4 h-4"><path stroke-linecap="round" stroke-linejoin="round" d="m16.862 4.487 1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8.8-2.685a4.5 4.5 0 0 1 1.13-1.897L16.863 4.487Zm0 0L19.5 7.125"></path></svg></button></div></div></li><li class="flex group"><a class="
+          min-w-0
+          flex-1 flex flex-row gap-4 p-2
+          justify-start
+          items-start
+          group-hover:bg-gray-100
+          group-hover:dark:bg-neutral-800
+          rounded-lg
+          aria-selected:ring-2 aria-selected:ring-blue-300
+        " aria-selected="false" href="https://websim.ai/@sleepybrook50774741/al-sakan-al-mutawwir-real-estate-development?b=g3AdVi65dYZbaBheA"><img alt="Al-Sakan Al-Mutawwir | Real Estate Development" loading="lazy" width="150" height="120" decoding="async" data-nimg="1" class="rounded-lg object-cover" srcset="/_next/image?url=https%3A%2F%2Fimages.websim.ai%2Fv1%2Fsite%2F8X5Pjz7W9VBr3Nt1K%2F600&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimages.websim.ai%2Fv1%2Fsite%2F8X5Pjz7W9VBr3Nt1K%2F600&amp;w=384&amp;q=75 2x" src="./Home _ Al-Sakan Al-Mutawwir_files/600(2)" style="color: transparent;"><div class="flex flex-col gap-1 truncate"><div class="text-sm break-words text-wrap">Al-Sakan Al-Mutawwir | Real Estate Development</div><div class="text-gray-500 dark:text-neutral-500 text-xs flex items-center gap-0.5 truncate"><div class="truncate">websim.ai/@sleepybrook50774741/al-sakan-al-mutawwir-real-estate-development</div></div></div></a><div class="w-0 flex justify-end"><div class="flex gap-2 p-2 pointer-events-none "><button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r2b:" data-state="closed" aria-label="edit bookmark" class="
+            opacity-0
+            group-hover:opacity-100
+            pointer-events-auto
+            w-5 h-5
+            flex items-center justify-center rounded-md
+            bg-blue-100 text-blue-600 hover:bg-blue-200
+          "><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="w-4 h-4"><path stroke-linecap="round" stroke-linejoin="round" d="m16.862 4.487 1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8.8-2.685a4.5 4.5 0 0 1 1.13-1.897L16.863 4.487Zm0 0L19.5 7.125"></path></svg></button></div></div></li></ul></div></div></div></div></div></div><div class="flex-1 flex items-stretch
+            transition-all duration-300 ease-in-out
+           lg:py-3 lg:px-8
+          "><div class="flex-1 flex items-stretch relative h-full"><div id="browser" class="@container bg-clip-padding relative flex-1 flex flex-col items-stretch ring-1 ring-gray-200/50 dark:ring-neutral-50/20 transition-all duration-300 ease-in-out bg-white dark:bg-neutral-950 rounded-lg"><div class="flex flex-col items-stretch w-full bg-gray-100 dark:bg-neutral-700  rounded-t-lg   transition-all duration-300 ease-in-out"><div class="p-[6px] flex items-center justify-between h-[44px] gap-2 "><div class="flex flex-1 items-center justify-start gap-2 "><div class="hidden @lg:flex"><div class="bg-red-500 dark:bg-teal-200 h-3 w-3 rounded-full mx-1"></div><div class="bg-yellow-400 dark:bg-sky-400 h-3 w-3 rounded-full mx-1"></div><button type="button" data-headlessui-state=""><div class="bg-green-500 dark:bg-pink-300 h-3 w-3 rounded-full mx-1 flex items-center justify-center group"><svg width="6" height="7" viewBox="0 0 6 7" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-2 h-2 group-hover:opacity-50 opacity-0"><path d="M0.5 4V1H3.5L0.5 4Z" fill="black"></path><path d="M5.5 3L2.5 6H5.5V3Z" fill="black"></path><path d="M0.5 4V1H3.5L0.5 4Z" stroke="black"></path><path d="M5.5 3L2.5 6H5.5V3Z" stroke="black"></path></svg></div></button></div><button class="hover:enabled:bg-gray-200 p-2 transition-all duration-300 ease-in-out rounded-full disabled:opacity-50" aria-label="Go Back" disabled=""><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="w-5 h-5"><path stroke-linecap="round" stroke-linejoin="round" d="M10.5 19.5 3 12m0 0 7.5-7.5M3 12h18"></path></svg></button><button class="hover:enabled:bg-gray-200 transition-all duration-300 ease-in-out p-2 rounded-full flex items-center gap-2 disabled:opacity-50" aria-label="Refresh Page"><div><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5"><path stroke-linecap="round" stroke-linejoin="round" d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0 3.181 3.183a8.25 8.25 0 0 0 13.803-3.7M4.031 9.865a8.25 8.25 0 0 1 13.803-3.7l3.181 3.182m0-4.991v4.99"></path></svg></div></button><button class="hover:enabled:bg-gray-200 transition-all duration-300 ease-in-out p-2 rounded-full disabled:opacity-50" aria-label="Go Home" title="Home"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5"><path stroke-linecap="round" stroke-linejoin="round" d="m2.25 12 8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25"></path></svg></button></div><div class="flex flex-grow-1 flex-shrink-1 items-center justify-center basis-[800px]"><form action="https://websim.ai/api/html" method="POST" class="flex-grow relative"><div class="flex-1 h-8"><div class="fixed top-0 left-0 right-0 h-full w-full aria-hidden:hidden z-[1]" aria-hidden="true"></div><div class="z-20 absolute w-full z-[2]   "><div class="  "><div class="flex flex-col gap-2 relative max-h-[calc(100vh-8rem)] "><div class=" transition-all duration-100 ease-in-out p-1 box-border min-w-0 w-full bg-white dark:bg-neutral-900 z-0 rounded-3xl mb-1"><div class="flex flex-col gap-1 flex-1"><div class="flex flex-row items-start gap-2"><a class="rt-HoverCardTrigger rounded-full border border-gray-200 overflow-hidden
+            dark:border-neutral-700 aria-disabled:opacity-50 block
+            focus:outline-none focus:shadow-[0_0_0_2px_white]" data-state="closed" href="https://websim.ai/@sleepybrook50774741"><img alt="sleepybrook50774741" loading="lazy" width="24" height="24" decoding="async" data-nimg="1" class="w-6 h-6" srcset="/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FACg8ocLREr9bk7yjky8nzlpoJ4Qf528tH7dCMrkLUC2L3F4TXRWXet0%3Ds96-c&amp;w=32&amp;q=75 1x, /_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FACg8ocLREr9bk7yjky8nzlpoJ4Qf528tH7dCMrkLUC2L3F4TXRWXet0%3Ds96-c&amp;w=48&amp;q=75 2x" src="./Home _ Al-Sakan Al-Mutawwir_files/ACg8ocLREr9bk7yjky8nzlpoJ4Qf528tH7dCMrkLUC2L3F4TXRWXet0=s96-c" style="color: transparent;"></a><div class="flex flex-col gap-1 flex-1"><textarea name="url" aria-label="URL" class="w-full bg-transparent focus:outline-none text-mono p-0 m-0 resize-none overflow-hidden text-ellipsis break-all text-base/5 overflow-y-auto whitespace-nowrap pt-[2px]" placeholder="What would you like to create today?" style="height: 23px !important;">https://websim.io/al-sakan-al-mutawwir/</textarea><div class="flex flex-col gap-2 aria-hidden:hidden pt-4 text-gray-500 pl-[2px] hidden" aria-hidden="true"></div></div><div class="flex items-center justify-center gap-2"></div></div></div></div><div class="hidden"><div class="flex flex-col flex-gap-6"><div class="group flex flex-0 py-2 rounded-lg flex-col-reverse relative z-0 gap-3"><div class="flex gap-4 bg-gray-100 dark:bg-neutral-800 rounded-lg"></div><div class="flex gap-4 bg-gray-100 dark:bg-neutral-800 rounded-lg"><div class="relative h-24 w-24 min-w-24
+      hover:shadow-lg
+      ring-1 ring-gray-200/20 dark:ring-neutral-50/10
+      flex-0
+      shadow-md rounded-lg aria-selected:scale-[1.1] hover:scale-[1.1] z-10 transition-all duration-200 ease-in-out" aria-selected="true"><a href="https://websim.ai/c/8RYJ4AVDgGBcCmTD0"><div class="absolute inset-0 gray-100 flex items-center justify-center aria-hidden:hidden bg-gray-200 rounded-lg" aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" data-slot="icon" class="w-12 h-12 text-gray-400 animate-pulse"><path fill-rule="evenodd" d="M1.5 6a2.25 2.25 0 0 1 2.25-2.25h16.5A2.25 2.25 0 0 1 22.5 6v12a2.25 2.25 0 0 1-2.25 2.25H3.75A2.25 2.25 0 0 1 1.5 18V6ZM3 16.06V18c0 .414.336.75.75.75h16.5A.75.75 0 0 0 21 18v-1.94l-2.69-2.689a1.5 1.5 0 0 0-2.12 0l-.88.879.97.97a.75.75 0 1 1-1.06 1.06l-5.16-5.159a1.5 1.5 0 0 0-2.12 0L3 16.061Zm10.125-7.81a1.125 1.125 0 1 1 2.25 0 1.125 1.125 0 0 1-2.25 0Z" clip-rule="evenodd"></path></svg></div><img aria-hidden="true" alt="Screenshot of the page" loading="eager" width="96" height="96" decoding="async" data-nimg="1" class="object-cover w-full h-full rounded-lg aria-hidden:hidden" srcset="/_next/image?url=https%3A%2F%2Fimages.websim.ai%2Fv1%2Fsite%2F8RYJ4AVDgGBcCmTD0%2F600&amp;w=96&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimages.websim.ai%2Fv1%2Fsite%2F8RYJ4AVDgGBcCmTD0%2F600&amp;w=256&amp;q=75 2x" src="./Home _ Al-Sakan Al-Mutawwir_files/600(3)" style=""></a><div class="absolute -bottom-1 -left-1"><a class="rt-HoverCardTrigger rounded-full border border-gray-200 overflow-hidden
+            dark:border-neutral-700 aria-disabled:opacity-50 block
+            focus:outline-none focus:shadow-[0_0_0_2px_white]" data-state="closed" href="https://websim.ai/@sleepybrook50774741"><img alt="sleepybrook50774741" loading="lazy" width="24" height="24" decoding="async" data-nimg="1" class="w-6 h-6" srcset="/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FACg8ocLREr9bk7yjky8nzlpoJ4Qf528tH7dCMrkLUC2L3F4TXRWXet0%3Ds96-c&amp;w=32&amp;q=75 1x, /_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FACg8ocLREr9bk7yjky8nzlpoJ4Qf528tH7dCMrkLUC2L3F4TXRWXet0%3Ds96-c&amp;w=48&amp;q=75 2x" src="./Home _ Al-Sakan Al-Mutawwir_files/ACg8ocLREr9bk7yjky8nzlpoJ4Qf528tH7dCMrkLUC2L3F4TXRWXet0=s96-c" style="color: transparent;"></a></div></div><div class="group flex flex-row w-full py-2 gap-2 px-2 rounded-lg relative z-0 gap-4 text-xs flex items-start justify-stretch w-full text-left"><div class="text-black whitespace-pre-wrap flex flex-col items-start flex-1 dark:text-white" style="overflow-wrap: anywhere;"><div class="flex flex-col"><div class="
+       
+      "><div><div class="flex flex-col"><span><span>1. Project Structure:
+Create a main project folder named al-sakan-al-mutawwir, and within this folder, create the following subfolders and files:
+
+index.html (Main HTML file for the homepage)
+about.html (HTML file for the About Us page)
+projects.html (HTML file for the Our Projects page)
+contact.html (HTML file for the Contact Us page)
+css/ (Folder for CSS files)
+style.css (Main stylesheet)
+img/ (Folder for image assets)
+js/ (Folder for JavaScript files)
+main.js (Main JavaScript file)
+2. HTML Files:
+index.html
+
+html
+Copy code
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;title&gt;Home | Al-Sakan Al-Mutawwir&lt;/title&gt;
+    &lt;link rel="stylesheet" href="css/style.css"&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;header&gt;
+        &lt;img src="img/logo.png" alt="Al-Sakan Al-Mutawwir Logo"&gt;
+        &lt;nav&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;a href="index.html"&gt;Home&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="about.html"&gt;About Us&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="projects.html"&gt;Our Projects&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="contact.html"&gt;Contact Us&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/nav&gt;
+    &lt;/header&gt;
+    &lt;main&gt;
+        &lt;section&gt;
+            &lt;h1&gt;Welcome to Al-Sakan Al-Mutawwir&lt;/h1&gt;
+            &lt;p&gt;We specialize in real estate development.&lt;/p&gt;
+            &lt;img src="img/main-banner.jpg" alt="Real Estate Development"&gt;
+            &lt;a href="projects.html"&gt;View Our Projects&lt;/a&gt;
+        &lt;/section&gt;
+    &lt;/main&gt;
+    &lt;footer&gt;
+        &lt;p&gt;&amp;copy; 2024 Al-Sakan Al-Mutawwir. All rights reserved.&lt;/p&gt;
+    &lt;/footer&gt;
+    &lt;script src="js/main.js"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+about.html
+
+html
+Copy code
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;title&gt;About Us | Al-Sakan Al-Mutawwir&lt;/title&gt;
+    &lt;link rel="stylesheet" href="css/style.css"&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;header&gt;
+        &lt;img src="img/logo.png" alt="Al-Sakan Al-Mutawwir Logo"&gt;
+        &lt;nav&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;a href="index.html"&gt;Home&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="about.html"&gt;About Us&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="projects.html"&gt;Our Projects&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="contact.html"&gt;Contact Us&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/nav&gt;
+    &lt;/header&gt;
+    &lt;main&gt;
+        &lt;section&gt;
+            &lt;h1&gt;About Us&lt;/h1&gt;
+            &lt;p&gt;Al-Sakan Al-Mutawwir is dedicated to advancing real estate development, offering innovative solutions and high-quality projects.&lt;/p&gt;
+        &lt;/section&gt;
+    &lt;/main&gt;
+    &lt;footer&gt;
+        &lt;p&gt;&amp;copy; 2024 Al-Sakan Al-Mutawwir. All rights reserved.&lt;/p&gt;
+    &lt;/footer&gt;
+    &lt;script src="js/main.js"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+projects.html
+
+html
+Copy code
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;title&gt;Our Projects | Al-Sakan Al-Mutawwir&lt;/title&gt;
+    &lt;link rel="stylesheet" href="css/style.css"&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;header&gt;
+        &lt;img src="img/logo.png" alt="Al-Sakan Al-Mutawwir Logo"&gt;
+        &lt;nav&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;a href="index.html"&gt;Home&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="about.html"&gt;About Us&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="projects.html"&gt;Our Projects&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="contact.html"&gt;Contact Us&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/nav&gt;
+    &lt;/header&gt;
+    &lt;main&gt;
+        &lt;section&gt;
+            &lt;h1&gt;Our Projects&lt;/h1&gt;
+            &lt;p&gt;Explore our latest real estate developments and projects.&lt;/p&gt;
+            &lt;!-- Add project details here --&gt;
+        &lt;/section&gt;
+    &lt;/main&gt;
+    &lt;footer&gt;
+        &lt;p&gt;&amp;copy; 2024 Al-Sakan Al-Mutawwir. All rights reserved.&lt;/p&gt;
+    &lt;/footer&gt;
+    &lt;script src="js/main.js"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+contact.html
+
+html
+Copy code
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;title&gt;Contact Us | Al-Sakan Al-Mutawwir&lt;/title&gt;
+    &lt;link rel="stylesheet" href="css/style.css"&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;header&gt;
+        &lt;img src="img/logo.png" alt="Al-Sakan Al-Mutawwir Logo"&gt;
+        &lt;nav&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;a href="index.html"&gt;Home&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="about.html"&gt;About Us&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="projects.html"&gt;Our Projects&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="contact.html"&gt;Contact Us&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/nav&gt;
+    &lt;/header&gt;
+    &lt;main&gt;
+        &lt;section&gt;
+            &lt;h1&gt;Contact Us&lt;/h1&gt;
+            &lt;form action="submit-form.php" method="post"&gt;
+                &lt;label for="name"&gt;Name:&lt;/label&gt;
+                &lt;input type="text" id="name" name="name" required&gt;
+                
+                &lt;label for="email"&gt;Email:&lt;/label&gt;
+                &lt;input type="email" id="email" name="email" required&gt;
+                
+                &lt;label for="message"&gt;Message:&lt;/label&gt;
+                &lt;textarea id="message" name="message" required&gt;&lt;/textarea&gt;
+                
+                &lt;button type="submit"&gt;Send&lt;/button&gt;
+            &lt;/form&gt;
+        &lt;/section&gt;
+    &lt;/main&gt;
+    &lt;footer&gt;
+        &lt;p&gt;&amp;copy; 2024 Al-Sakan Al-Mutawwir. All rights reserved.&lt;/p&gt;
+    &lt;/footer&gt;
+    &lt;script src="js/main.js"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+3. CSS File (style.css):
+css
+Copy code
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+header img {
+    max-width: 150px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 1rem;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+form label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+form button {
+    background: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background: #555;
+}
+4. JavaScript File (main.js):
+javascript
+Copy code
+// Add JavaScript functionality here
+console.log('JavaScript is working!');
+5. Images:
+Place your images in the img/ folder:
+
+logo.png - The company logo.
+main-banner.jpg - Banner image for the homepage.
+6. Form Handling:
+For the contact form, you will need a server-side script to handle form submissions. If you use PHP, create a submit-form.php file (you'll need to configure this file to handle form data and send emails).
+
+Example PHP for submit-form.php:
+
+php
+Copy code
+&lt;?php
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $name = htmlspecialchars($_POST['name']);
+    $email = htmlspecialchars($_POST['email']);</span></span><div class="h-[.5rem]"></div><div class="text-xs text-gray-500 dark:text-neutral-400 whitespace-pre-wrap break-all max-h-24">https://websim.io/al-sakan-al-mutawwir/</div></div></div></div></div></div><div class="absolute -top-1 -right-1"><button class="text-xs p-1 bg-white rounded-full dark:bg-neutral-700" type="button"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="w-4 h-4 text-gray-800 dark:text-white pointer-events-none"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12"></path></svg></button></div></div></div></div></div></div></div></div></div></div></form></div><div class="flex flex-1 items-center justify-end"><button class="hover:enabled:bg-gray-200 transition-all duration-300 ease-in-out p-1 rounded-full disabled:opacity-50 disabled:bg-none dark:hover:enabled:bg-neutral-600 ml-1 disabled:opacity-20 disabled:cursor-default" aria-label="Bookmark this page" title="Bookmark this page" type="button"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="
+          w-6 h-6
+          
+        "><path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0 1 11.186 0Z"></path></svg></button><button type="button" id="radix-:r63:" aria-haspopup="menu" aria-expanded="false" data-state="closed" class="ml-1 hover:enabled:bg-gray-200 transition-all duration-300 ease-in-out p-1 dark:hover:enabled:bg-neutral-600 rounded-full disabled:opacity-50 disabled:bg-none " aria-label="share"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="w-5 h-5"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6.75a.75.75 0 1 1 0-1.5.75.75 0 0 1 0 1.5ZM12 12.75a.75.75 0 1 1 0-1.5.75.75 0 0 1 0 1.5ZM12 18.75a.75.75 0 1 1 0-1.5.75.75 0 0 1 0 1.5Z"></path></svg></button></div></div></div><div class="flex-1 absolute left-0 right-0 bottom-0  top-11"><div class="relative group"><div class="bg-blue-500 absolute left-0 z-[1] min-w-16 transition-width transition-opacity top-0 animate-pulse " style="opacity: 0; padding: 0px; width: 0%;"></div></div><iframe src="./Home _ Al-Sakan Al-Mutawwir_files/html.html" name="contentWindow" allow="accelerometer *; bluetooth *; camera *; encrypted-media *; display-capture *; geolocation *; gyroscope *; microphone *; midi *; clipboard-read *; clipboard-write *; serial *; xr-spatial-tracking *; fullscreen *; payment *" class=" absolute inset-0 w-full h-full bottom-0 border-none delay-500 bg-white dark:bg-neutral-900 rounded-b-lg"></iframe></div></div></div><div class="absolute h-full inset-0 w-1 left-0 z-[2]"></div></div></div></div><div id="background" style="position: fixed; width: 110vw; height: 110vh; top: -5vh; filter: blur(5px); left: -5vw; overflow: hidden; z-index: -1;"><img alt="" loading="lazy" width="100" height="100" decoding="async" data-nimg="1" srcset="/_next/image?url=%2Fsonoma_resized.webp&amp;w=128&amp;q=75 1x, /_next/image?url=%2Fsonoma_resized.webp&amp;w=256&amp;q=75 2x" src="./Home _ Al-Sakan Al-Mutawwir_files/sonoma_resized.webp" style="color: transparent; object-fit: cover; width: 100%; height: 100%;"></div><textarea tabindex="-1" aria-hidden="true" style="min-height: 0px !important; max-height: none !important; height: 0px !important; visibility: hidden !important; overflow: hidden !important; position: absolute !important; z-index: -1000 !important; top: 0px !important; right: 0px !important; border-width: 0px; box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI (Custom)&quot;, Roboto, &quot;Helvetica Neue&quot;, &quot;Open Sans (Custom)&quot;, system-ui, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; line-height: 20px; padding: 2px 0px 0px; tab-size: 4; text-indent: 0px; text-rendering: auto; text-transform: none; width: 750px; word-break: break-all;"></textarea><next-route-announcer style="position: absolute;"><template shadowrootmode="open"><div aria-live="assertive" id="__next-route-announcer__" role="alert" style="position: absolute; border: 0px; height: 1px; margin: -1px; padding: 0px; width: 1px; clip: rect(0px, 0px, 0px, 0px); overflow: hidden; white-space: nowrap; overflow-wrap: normal;">websim.ai</div></template></next-route-announcer></body></html>

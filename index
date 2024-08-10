@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<!-- saved from url=(0090)https://party.websim.ai/api/v1/sites/8RYJ4AVDgGBcCmTD0/html?origin=https%3A%2F%2Fwebsim.ai -->
+<html w-tid="0" lang="en"><head w-tid="1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style>html{min-height:100%}.ctxmenu{position:fixed;border:1px solid #999;padding:2px 0;box-shadow:#aaa 3px 3px 3px;background:#fff;margin:0;z-index:9999;overflow-y:auto;font:15px Verdana, sans-serif;box-sizing:border-box}.ctxmenu li{margin:1px 0;display:block;position:relative;user-select:none}.ctxmenu li.heading{font-weight:bold;margin-left:-5px}.ctxmenu li span{display:block;padding:2px 20px;cursor:default}.ctxmenu li a{color:inherit;text-decoration:none}.ctxmenu li.icon{padding-left:15px}.ctxmenu img.icon{position:absolute;width:18px;left:10px;top:2px}.ctxmenu li.disabled{color:#ccc}.ctxmenu li.divider{border-bottom:1px solid #aaa;margin:5px 0}.ctxmenu li.interactive:hover{background:rgba(0, 0, 0, .1)}.ctxmenu li.submenu::after{content:"";position:absolute;display:block;top:0;bottom:0;right:.4em;margin:auto .1rem auto auto;border-right:1px solid #000;border-top:1px solid #000;transform:rotate(45deg);width:.3rem;height:.3rem}.ctxmenu li.submenu.disabled::after{border-color:#ccc}</style><!--<base href="" simulated-href="https://websim.io/al-sakan-al-mutawwir/" w-tid="2">--><base href=".">
+<link rel="stylesheet" href="./fonts(1).css">
+<link rel="stylesheet" href="./ctxmenu.css">
+
+
+</head><body w-tid="3">
+Thank you for providing the detailed project structure and code for the Al-Sakan Al-Mutawwir website. I'll create an immersive and interactive version of the homepage (index.html) with some enhancements using HTML, CSS, and JavaScript. I'll focus on creating a modern, responsive design with smooth animations and interactive elements.
+
+Here's the enhanced version of the homepage:
+
+```html
+
+
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" w-tid="7">
+    <title w-tid="8">Home | Al-Sakan Al-Mutawwir</title>
+    <link href="./css2" rel="stylesheet" w-tid="9">
+    <script src="./gsap.min.js.download" w-tid="10"></script>
+    <style w-tid="11">
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background: linear-gradient(to right, #2c3e50, #3498db);
+            color: #fff;
+            padding: 1rem;
+            position: fixed;
+            width: 100%;
+            z-index: 1000;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 600;
+            text-decoration: none;
+            color: #fff;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+        }
+
+        nav ul li {
+            margin-left: 20px;
+        }
+
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        nav ul li a:hover {
+            color: #f39c12;
+        }
+
+        main {
+            padding-top: 80px;
+        }
+
+        .hero {
+            background: url('https://source.unsplash.com/1600x900/?real-estate') no-repeat center center/cover;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: #fff;
+            position: relative;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+        }
+
+        .hero-content {
+            position: relative;
+            z-index: 1;
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            margin-bottom: 2rem;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background-color: #f39c12;
+            color: #fff;
+            padding: 12px 24px;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .cta-button:hover {
+            background-color: #e67e22;
+        }
+
+        .projects {
+            max-width: 1200px;
+            margin: 4rem auto;
+            padding: 0 1rem;
+        }
+
+        .projects h2 {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .project-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .project-card {
+            background-color: #fff;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .project-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .project-card img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+
+        .project-info {
+            padding: 1.5rem;
+        }
+
+        .project-info h3 {
+            margin-bottom: 0.5rem;
+        }
+
+        footer {
+            background: #2c3e50;
+            color: #fff;
+            text-align: center;
+            padding: 2rem;
+        }
+
+        @media (max-width: 768px) {
+            .header-content {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            nav ul {
+                margin-top: 1rem;
+            }
+
+            nav ul li {
+                margin-left: 0;
+                margin-right: 20px;
+            }
+
+            h1 {
+                font-size: 2.5rem;
+            }
+        }
+    </style>
+
+
+    <header w-tid="13">
+        <div class="header-content" w-tid="14">
+            <a href="https://party.websim.ai/api/v1/sites/8RYJ4AVDgGBcCmTD0/html?origin=https%3A%2F%2Fwebsim.ai#" class="logo" w-tid="15">Al-Sakan Al-Mutawwir</a>
+            <nav w-tid="16">
+                <ul w-tid="17">
+                    <li w-tid="18"><a href="https://party.websim.ai/api/v1/sites/8RYJ4AVDgGBcCmTD0/html?origin=https%3A%2F%2Fwebsim.ai#home" w-tid="19">Home</a></li>
+                    <li w-tid="20"><a href="https://party.websim.ai/api/v1/sites/8RYJ4AVDgGBcCmTD0/html?origin=https%3A%2F%2Fwebsim.ai#about" w-tid="21">About Us</a></li>
+                    <li w-tid="22"><a href="https://party.websim.ai/api/v1/sites/8RYJ4AVDgGBcCmTD0/html?origin=https%3A%2F%2Fwebsim.ai#projects" w-tid="23">Our Projects</a></li>
+                    <li w-tid="24"><a href="https://party.websim.ai/api/v1/sites/8RYJ4AVDgGBcCmTD0/html?origin=https%3A%2F%2Fwebsim.ai#contact" w-tid="25">Contact Us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main w-tid="26">
+        <section id="home" class="hero" w-tid="27" style="background-position-y: 446px;">
+            <div class="hero-content" w-tid="28" style="transform: translate(0px, 0px); opacity: 1;">
+                <h1 w-tid="29">Welcome to Al-Sakan Al-Mutawwir</h1>
+                <p w-tid="30">Innovative Real Estate Development Solutions</p>
+                <a href="https://party.websim.ai/api/v1/sites/8RYJ4AVDgGBcCmTD0/html?origin=https%3A%2F%2Fwebsim.ai#projects" class="cta-button" w-tid="31">View Our Projects</a>
+            </div>
+        </section>
+        <section id="projects" class="projects" w-tid="32">
+            <h2 w-tid="33">Featured Projects</h2>
+            <div class="project-grid" w-tid="34">
+                <div class="project-card" w-tid="35" style="transform: translate(0px, 0px); opacity: 1;">
+                    <img src="./out-0.webp" alt="Luxury Apartments" w-tid="36" data-image_id="0" class="" alt-rewritten="Interior of a modern, open-concept apartment with sleek furnishings and abundant natural light.">
+                    <div class="project-info" w-tid="37">
+                        <h3 w-tid="38">Luxury Apartments</h3>
+                        <p w-tid="39">Modern living spaces in the heart of the city.</p>
+                    </div>
+                </div>
+                <div class="project-card" w-tid="40" style="transform: translate(0px, 0px); opacity: 1;">
+                    <img src="./out-0(1).webp" alt="Commercial Complex" w-tid="41" data-image_id="1" class="" alt-rewritten="A striking photograph of a modern multi-story office building set against a clear blue sky.">
+                    <div class="project-info" w-tid="42">
+                        <h3 w-tid="43">Commercial Complex</h3>
+                        <p w-tid="44">State-of-the-art offices and retail spaces.</p>
+                    </div>
+                </div>
+                <div class="project-card" w-tid="45" style="transform: translate(0px, 0px); opacity: 1;">
+                    <img src="./out-0(2).webp" alt="Residential Villas" w-tid="46" data-image_id="2" class="" alt-rewritten="A picturesque villa nestled amidst lush greenery, its terracotta roof tiles and white stucco walls exuding a warm Mediterranean charm.">
+                    <div class="project-info" w-tid="47">
+                        <h3 w-tid="48">Residential Villas</h3>
+                        <p w-tid="49">Exclusive gated community with premium amenities.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer w-tid="50">
+        <p w-tid="51">© 2024 Al-Sakan Al-Mutawwir. All rights reserved.</p>
+    </footer>
+    <script w-tid="52">
+        // Smooth scrolling for navigation links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // Animations using GSAP
+        gsap.from('.hero-content', {duration: 1, opacity: 0, y: 50, ease: 'power3.out'});
+        gsap.from('.project-card', {duration: 1, opacity: 0, y: 50, stagger: 0.2, ease: 'power3.out', scrollTrigger: {
+            trigger: '.projects',
+            start: 'top 80%'
+        }});
+
+        // Parallax effect for hero section
+        window.addEventListener('scroll', () => {
+            const scrollPosition = window.pageYOffset;
+            document.querySelector('.hero').style.backgroundPositionY = scrollPosition * 0.5 + 'px';
+        });
+    </script>
+
+
+```
+
+This enhanced version of the homepage includes the following improvements:
+
+1. Modern, responsive design with a fixed header and smooth scrolling navigation.
+2. Hero section with a full-screen background image and a call-to-action button.
+3. Featured projects section with a grid layout and hover effects.
+4. Animations using GSAP (GreenSock Animation Platform) for a more dynamic user experience.
+5. Parallax effect on the hero section background for added visual interest.
+6. Improved typography using Google Fonts (Poppins).
+7. Subtle color scheme and gradients for a more professional look.
+
+The JavaScript code includes smooth scrolling for navigation links, GSAP animations for the hero content and project cards, and a simple parallax effect for the hero section background.
+
+This enhanced homepage provides a more engaging and interactive experience for visitors while maintaining the core information and structure of the original design. You can further customize the content, colors, and images to better match the specific branding and projects of Al-Sakan Al-Mutawwir.
+
+</body></html>
